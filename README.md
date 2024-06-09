@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**buenoalvezm/buenoalvezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm María 👩🏻‍💻</h1>
+<h3 align="center">A PhD student at Science for Life Laboratory, Sweden.</h3>
+<p align="center">
+<a href="https://twitter.com/_buenoalvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_buenoalvez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maría bueno álvez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maría bueno álvez" height="30" width="40" /></a>
+</p>
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🧬 Trained **geneticist**
+- 🩸 Currently focusing on **investigating plasma proteome profiles across diseases**
+- 🎨 Interested in **data visualisation & science communication**
+- 🏡 Born in Barcelona, Spain 
+- 📌 Living in Stockholm, Sweden 
+
+<br>
+
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=buenoalvezm&show_icons=true&locale=en" alt="buenoalvezm" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buenoalvezm&" alt="buenoalvezm" /></td>
+  </tr>
+</table>
