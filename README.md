@@ -10,6 +10,7 @@
 
 
 - 🧬 Trained **geneticist**
+- 💻 Bioinformatician at the **Human Protein Atlas**
 - 🩸 Currently focusing on **investigating plasma proteome profiles across diseases**
 - 🎨 Interested in **data visualisation & science communication**
 - 🏡 Born in Barcelona, Spain 
