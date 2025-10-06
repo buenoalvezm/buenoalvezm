@@ -26,7 +26,6 @@ Hi 👋, I'm María 👩🏻‍💻
 
 
 <pre>
-   ── 𝗟𝗜𝗡𝗞𝗦 ──
  Bluesky:  <a href="https://bsky.app/profile/buenoalvez.bsky.social" target="_blank">@buenoalvez.bsky.social</a>
  LinkedIn: <a href="https://linkedin.com/in/maría-bueno-álvez-33395b192" target="_blank">María Bueno Álvez</a>
 </pre>
