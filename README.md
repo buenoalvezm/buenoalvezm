@@ -16,11 +16,3 @@
 - 🏡 Born in Barcelona, Spain 
 - 📌 Living in Stockholm, Sweden 
 
-<br>
-
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=buenoalvezm&show_icons=true&locale=en" alt="buenoalvezm" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buenoalvezm&" alt="buenoalvezm" /></td>
-  </tr>
-</table>
