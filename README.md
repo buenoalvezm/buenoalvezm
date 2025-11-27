@@ -21,7 +21,6 @@ Hi 👋, I'm María 👩🏻‍💻
  🩸 Human Blood Atlas           Integrating plasma-proteomics data across platforms to generate a plasma proteome atlas.
  💊 Disease research            Understanding the plasma proteome in cancer, cardiovascular, autoimmune, neurological disorders, among others.
  🎓 PhD defense                 Planning my PhD dissertation.
- 🎤 Upcoming conference         HUPO World Congress 2025, Toronto, 9–13 November
 </pre>
 
 
