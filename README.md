@@ -6,7 +6,7 @@ Hi 👋, I'm María 👩🏻‍💻
 <pre>
     ── 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ──
 
- 🎓 4th year PhD student at Science for Life Laboratory, Sweden
+ 🎓 PhD in Biotechnology - Postdoctoral researcher at Science for Life Laboratory, Sweden
  🧬 Trained Geneticist with a passion for human biology and precision medicine
  💻 Bioinformatician at the Human Protein Atlas, focusing on large-scale plasma proteomics
  🩸 Exploring disease-specific plasma proteome profiles across health and disease
@@ -20,7 +20,7 @@ Hi 👋, I'm María 👩🏻‍💻
   
  🩸 Human Blood Atlas           Integrating plasma-proteomics data across platforms to generate a plasma proteome atlas.
  💊 Disease research            Understanding the plasma proteome in cancer, cardiovascular, autoimmune, neurological disorders, among others.
- 🎓 PhD defense                 Planning my PhD dissertation.
+ 📃 Publishing                  Writing up PhD findings from the Human Blood Atlas.
 </pre>
 
 
