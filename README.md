@@ -1,30 +1,41 @@
-<!-- 🎉 Main Title -->
-<h1 align="center" style="font-family:monospace; font-weight:bold;">
-Hi 👋, I'm María 👩🏻‍💻
-</h1>
 
-<pre>
-    ── 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ──
+## Hej 👋, I'm María 👩🏻‍💻
 
- 🎓 PhD in Biotechnology - Postdoctoral researcher at Science for Life Laboratory, Sweden
- 🧬 Trained Geneticist with a passion for human biology and precision medicine
- 💻 Bioinformatician at the Human Protein Atlas, focusing on large-scale plasma proteomics
- 🩸 Exploring disease-specific plasma proteome profiles across health and disease
- 🎨 Enthusiastic about data visualisation and science communication
- 📍 Based in Stockholm, Sweden
- 🏡 From Barcelona, Spain
-</pre>
+```r
+> glimpse(maria)
 
-<pre>
-    ── 𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗙𝗢𝗖𝗨𝗦 ──
-  
- 🩸 Human Blood Atlas           Integrating plasma-proteomics data across platforms to generate a plasma proteome atlas.
- 💊 Disease research            Understanding the plasma proteome in cancer, cardiovascular, autoimmune, neurological disorders, among others.
- 📃 Publishing                  Writing up PhD findings from the Human Blood Atlas.
-</pre>
+Rows: 1
+Columns: 7
+$ role          <chr> "Research Scientist @ Human Protein Atlas · SciLifeLab"
+$ building      <chr> "Human Disease Blood Atlas · proteinatlas.org/blood"
+$ path          <chr> "Geneticist → PhD in Biotechnology → Bioinformatician"
+$ data          <chr> "Plasma proteomics at scale, across health and disease"
+$ interests     <chr> "Data visualisation", "Science communication"
+$ based_in      <chr> "Stockholm, SE"
+$ from          <chr> "Barcelona, ES"
+```
 
+<!-- FOCUS:START -->
+```r
+> current_focus()
 
-<pre>
- Bluesky:  <a href="https://bsky.app/profile/buenoalvez.bsky.social" target="_blank">@buenoalvez.bsky.social</a>
- LinkedIn: <a href="https://linkedin.com/in/maría-bueno-álvez-33395b192" target="_blank">María Bueno Álvez</a>
-</pre>
+# A tibble: 2 × 3
+  project               deadline     status
+  <chr>                 <chr>        <chr>
+1 HPA annual release    2026-11-11   Updating the Blood section
+2 HDBA coordination     ongoing      Coordinating the data analyses for the Human Disease Blood Atlas
+3 Cross-platform paper  ongoing      Comparing proteomics platforms
+```
+<!-- FOCUS:END -->
+
+```r
+> sessionInfo()
+
+favourite packages:
+[1] tidyverse   tidymodels   ggplot2   HDAnalyzeR
+```
+
+🩸 **Explore the atlas:** [proteinatlas.org/blood](https://www.proteinatlas.org/blood)<br>
+📚 **Code from my papers:** [Human-blood-atlas](https://github.com/buenoalvezm/Human-blood-atlas) · [Pan-cancer-profiling](https://github.com/buenoalvezm/Pan-cancer-profiling) ([*Nat Commun* 2023](https://doi.org/10.1038/s41467-023-39765-y))<br>
+🌍 **Find me:** [ORCID](https://orcid.org/0000-0002-2669-7796) · [Bluesky](https://bsky.app/profile/buenoalvez.bsky.social) · [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-bueno-%C3%A1lvez-33395b192/)
+
